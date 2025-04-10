@@ -1,2 +1,1 @@
-# qa_guru_lesson10
-# qa_guru_lesson10
+# Домашнее задание к лекции 10
